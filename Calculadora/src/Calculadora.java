@@ -16,7 +16,14 @@ public class Calculadora {
             System.out.println("Segundo número:");
             int numero2 = sc.nextInt();
 
-            System.out.printf("Qual operação?\n 1- Somar\n 2- Subtrair\n 3- Multiplicar\n 4- Dividir\n 0- Encerrar\n");
+            System.out.printf("""
+                    Qual operação?
+                    1- Somar
+                    2- Subtrair
+                    3- Multiplicar
+                    4- Dividir
+                    0- Encerrar
+                    """);
             int operacao = sc.nextInt();
 
             if (operacao == 0) {

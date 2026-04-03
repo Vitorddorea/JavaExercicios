@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adivinhacao/Adivinhacao.iml" filepath="$PROJECT_DIR$/Adivinhacao/Adivinhacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaExercicios.iml" filepath="$PROJECT_DIR$/.idea/JavaExercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaiorNumero/MaiorNumero.iml" filepath="$PROJECT_DIR$/MaiorNumero/MaiorNumero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumerosPares/NumerosPares.iml" filepath="$PROJECT_DIR$/NumerosPares/NumerosPares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParImpar/ParImpar.iml" filepath="$PROJECT_DIR$/ParImpar/ParImpar.iml" />
     </modules>
   </component>
 </project>
