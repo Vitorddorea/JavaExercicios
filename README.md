@@ -14,7 +14,6 @@ Este repositório reúne exercícios que estou desenvolvendo durante meus estudo
 - Números pares
 - Pares e Ímpares
 - Jogo de adivinhação
-- Mega-Sena
 
 ## 🎯 Objetivo
 Praticar e consolidar os fundamentos da linguagem Java através de exercícios, evoluindo gradualmente na lógica e organização do código.
